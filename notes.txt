@@ -1,0 +1,21 @@
+hospital
+pacit
+doc
+department
+emp.works
+sisters
+lab
+rooms
+phr
+cars
+accounts
+
+(patains)pat_id ,pat_name , pat_age , pat_gender address_pat,phone_pat
+(appo)pat_id,doc_id,app_date
+(doc) doc_id,doc_name , doc_s_time , doc_e_time , phone_doc
+id (1) ,sam , kha , 09123 , male ,
+id (2),'omer', 'male', 'khary','123123'
+'ali','06:00','18:00'  , '09123123'
+-> id (1),1 ,1-1-2001
+-> id (1),1,1-1-2010
+-> id (2),1,1-1-2011
