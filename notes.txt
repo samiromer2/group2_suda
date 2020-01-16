@@ -19,3 +19,19 @@ id (2),'omer', 'male', 'khary','123123'
 -> id (1),1 ,1-1-2001
 -> id (1),1,1-1-2010
 -> id (2),1,1-1-2011
+
+
+1+departments 
+--doc
+--sisters
+--emp
+
+
+2+ pat
+--app
+
+3+room
+4+lab
+5+phr
+6+car
+7+account
